@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AI Course Generator](https://imgur.com/53XKpvr.png)
+![AI Course Generator](https://i.imgur.com/CzokQQV.png)
 
 _Transform any topic into a comprehensive learning course with the power of AI_
 
@@ -117,8 +117,8 @@ graph TB
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/insertfahim/ai-learning-journey.git
-    cd ai-learning-journey
+    git clone https://github.com/insertfahim/learning-journey.git
+    cd learning-journey
     ```
 
 2. **Install dependencies**
@@ -305,7 +305,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 -   📧 Email: faahim06@gmail.com
--   🐛 Issues: [GitHub Issues](https://github.com/insertfahim/ai-learning-journey/issues)
+-   🐛 Issues: [GitHub Issues](https://github.com/insertfahim/learning-journey/issues)
 
 ---
 
