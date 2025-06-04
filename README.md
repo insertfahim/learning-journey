@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AI Course Generator]([https://i.imgur.com/CzokQQV.png](https://i.imgur.com/YZSJ7dn.png))
+![AI Course Generator](https://i.imgur.com/YZSJ7dn.png)
 
 _Transform any topic into a comprehensive learning course with the power of AI_
 
